@@ -1,0 +1,84 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  background-color: #becfdf;
+}
+
+
+.register-buttons {
+  margin-bottom: 20px;
+  background-color: #007bff;
+}
+
+h1 {
+  text-align: right;
+  margin-bottom: 20px;
+  color: #070606;
+ 
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 200%;
+    padding: 10px;
+  }
+  select{
+    width: 210%;
+    padding: 10px;
+    align-items: center;
+  }
+ 
+  
+  button[type="submit"] {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* employee-list{
+
+  } */

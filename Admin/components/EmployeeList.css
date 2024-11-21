@@ -1,0 +1,10 @@
+
+.employee-list h2 {
+  text-align: left;
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: rgb(33, 85, 145);/* Set the background color of the "Driver List" text to blue */
+  color: white; /* Set the text color to white for better readability */
+  padding: 8px; /* Add padding for better visibility */
+}
+

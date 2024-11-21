@@ -1,0 +1,13 @@
+.requests-container {
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    height: 100px; /* Adjust the height to match your layout */
+  }
+  
+  .no-requests-message {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(175, 46, 46);
+  }
+  
