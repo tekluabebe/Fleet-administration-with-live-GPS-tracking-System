@@ -1,0 +1,17 @@
+.navbarr-container {
+  display: flex;
+}
+
+.request-form-container {
+  flex: 1;
+  padding: 20px;
+}
+
+.request-options-container {
+  margin-top: 20px;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #290e0e;
+}

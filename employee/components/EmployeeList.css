@@ -1,0 +1,23 @@
+.notification-row {
+    background-color: rgb(235, 206, 206); 
+   justify-content: right; 
+   -ms-flex-align: center;
+   
+ }
+ 
+
+ 
+ .notification-row th {
+   font-weight: bold;
+ }
+ 
+ .notification-row th:first-child,
+ .notification-row td:first-child {
+   border-left: none;
+ }
+ 
+ .notification-row th:last-child,
+ .notification-row td:last-child {
+   border-right: none;
+ }
+   

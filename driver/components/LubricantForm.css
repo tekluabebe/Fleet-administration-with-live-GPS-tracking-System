@@ -1,0 +1,47 @@
+.lubricant-form-container {
+    max-width: 700px;
+    margin: 5px auto;
+    padding: 20px;
+    background-color: #63909b;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    width: 200px;
+    margin-left: -200px;
+    
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  input,
+  textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #100707;
+    border-radius: 4px;
+  }
+
+input,
+
+  
+  select{
+    width: 400px;
+    padding: 10px;
+    align-items: center;
+  }
+ 
+  
+  button[type="submit"] {
+    display: block;
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: #2718f7;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
